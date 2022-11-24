@@ -50,6 +50,20 @@ npm install
 
 Open terminal in your project directory and run below command:
 
+Run unoserver using command:
+
+```sh
+unoserver
+```
+
+Or to keep server listening on cloud server run below command:
+
+```sh
+unoserver &
+```
+
+Then run the NextJS server using below command:
+
 ```sh
 npm run dev
 ```
